@@ -106,7 +106,7 @@ header {
   -ms-flex-pack: center;
   justify-content: center;
   position: relative;
-  padding: 6rem 3rem;
+  padding: 4rem 3rem;
   -webkit-box-sizing: border-box;
   box-sizing: border-box
 }
@@ -201,7 +201,7 @@ main {
 
 .name {
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin: 0
 }
 
@@ -241,7 +241,7 @@ main {
 }
 
 .actionsC {
-  width: 33.33%
+  width: 20.33% /*33.33%*/
 }
 
 .actionBtn {
@@ -263,7 +263,7 @@ main {
 
 .actionBtn a {
   border-radius: 100%;
-  padding: 0.75rem;
+  padding: 0.5rem;
   line-height: 0
 }
 
@@ -483,7 +483,7 @@ video {
 
 footer {
   padding: 2.5rem 1.5rem 2rem;
-  font-size: 0.75rem
+  font-size: 1rem
 }
 
 footer a {
